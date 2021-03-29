@@ -13,7 +13,7 @@
     <span> . </span>    
     <a target="_blank" href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">SQL Server 2019</a>
     <span> . </span>
-    <a target="_blank" href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15">MS SQL Management Studio</a>
+    <a target="_blank" href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15">MS SQL</a>
     <span> . </span>
     <a target="_blank" href="https://sweetalert2.github.io/">Sweet Alert 2</a>
     <span> . </span>
